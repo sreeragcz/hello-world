@@ -1,3 +1,3 @@
 # hello-world
-my first repository
-iam an engineering student
+my first repository.
+iam an engineering student.
